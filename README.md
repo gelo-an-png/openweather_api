@@ -236,3 +236,7 @@ The API key is stored in config.js file:
 - Loading states and error handling
 - Input validation
 
+## Screenshot
+<img width="577" height="764" alt="image" src="https://github.com/user-attachments/assets/764aad10-68bf-4183-88eb-72a525e6ff46" />
+
+
